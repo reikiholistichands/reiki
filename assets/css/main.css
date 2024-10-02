@@ -1098,12 +1098,12 @@ body .hur54b {
 	width: 320px;
 	height:250px;
 }
-@media screen and (max-width:1280px) {
+/* @media screen and (max-width:1280px) {
 	#image1{
 		margin-top:12em;
 		margin-bottom: 0%;
 	}
-	}
+	} */
 @media screen and (max-width:1040px) {
 #image1{
 	margin-top:12em;
@@ -1168,12 +1168,12 @@ body .hur54b {
 					}
 					}
 	/* image 2 */
-	@media screen and (max-width:1280px) {
+	/* @media screen and (max-width:1280px) {
 		#image2{
 			margin-top:12em;
 			margin-bottom: 0%;
 		}
-		}
+		} */
 	@media screen and (max-width:1040px) {
 			#image2{
 			margin-top: 12em;
@@ -1193,12 +1193,12 @@ body .hur54b {
 	}
 	}
 /* image 3 */
-@media screen and (max-width:1280px) {
+/* @media screen and (max-width:1280px) {
 	#image3{
 		margin-top:12em;
 		margin-bottom: 0%;
 	}
-	}
+	} */
 @media screen and (max-width:1024px) {
 	#image3{
 		margin-top: 90%;
