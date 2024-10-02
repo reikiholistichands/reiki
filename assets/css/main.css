@@ -1081,17 +1081,20 @@ body .hur54b {
  }
 
 #image1{
-	margin-top: 22%;
+	/* margin-top: 22%; */
+	margin-top:15em;
 	width: 320px;
 	height:250px;
 }
 #image2{
-	margin-top: 22%;
+	/* margin-top: 22%; */
+	margin-top:15em;
 	width: 320px;
 	height:250px;
 }
 #image3{
-	margin-top: 22%;
+	/* margin-top: 22%; */
+	margin-top:15em;
 	width: 320px;
 	height:250px;
 }
@@ -1103,7 +1106,7 @@ body .hur54b {
 	}
 @media screen and (max-width:1040px) {
 #image1{
-	margin-top:55%;
+	margin-top:12em;
 	margin-bottom: 0%;
 }
 }
@@ -1126,12 +1129,7 @@ body .hur54b {
 			margin-bottom: 0%;
 		}
 		}
-	/* @media screen and (max-width:850px) {
-		#image1{
-			margin-top: 30%;
-			margin-bottom: 0%;
-		}
-		} */
+	
 	@media screen and (max-width:830px) {
 		#image1{
 			margin-top: 32%;
@@ -1178,7 +1176,7 @@ body .hur54b {
 		}
 	@media screen and (max-width:1040px) {
 			#image2{
-			margin-top: 55%;
+			margin-top: 12em;
 			margin-bottom: 0%;
 		}
 	}
@@ -1215,7 +1213,7 @@ body .hur54b {
 	}
 			
 	#servicetext{
-		font-size: 1em;
+		font-size: 1.4em;
 		color: black;
 	}
 		@media screen and (max-width:1040px) {
@@ -1235,12 +1233,12 @@ body .hur54b {
 		
 	}@media screen and (max-width:500px) {
 		#servicetext{
-			font-size: 1em;
+			font-size: 1.4em;
 		}
 	}
 
 	#headtext{
-		font-size: 1em;
+		font-size: 1.4em;
 	}
 	@media screen and (max-width:1040px) {
 		#headtext{
@@ -1262,12 +1260,12 @@ body .hur54b {
 	}
 	@media screen and (max-width:500px) {
 		#headtext{
-			font-size: 1em;
+			font-size: 1.4em;
 		}
 		
 	}
 	#exptext{
-		font-size: 1em;
+		font-size: 1.4em;
 		/* padding-left: 1%; */
 	}
 	@media screen and (max-width:1040px) {
@@ -1290,7 +1288,7 @@ body .hur54b {
 	}
 	@media screen and (max-width:500px) {
 		#exptext{
-			font-size: 1em;
+			font-size: 1.4em;
 		}
 		
 	}
@@ -1320,7 +1318,7 @@ body .hur54b {
 	}
 	@media screen and (max-width:500px) {
 		#printrequest{
-			font-size: 1em;
+			font-size: 1.4em;
 		}
 		
 	}
@@ -3761,6 +3759,7 @@ body .hur54b {
 
 			.main {
 				padding: 2em 1.5em 0.1em 1.5em ;
+				font-size: 1.1em;
 			}
 
 		/* Header */
