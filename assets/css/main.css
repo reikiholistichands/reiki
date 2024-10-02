@@ -1080,27 +1080,140 @@ body .hur54b {
 	color: antiquewhite;
  }
 
-#serviceimage{
-	margin-top: 15%;
+#image1{
+	margin-top: 22%;
 	width: 320px;
 	height:250px;
 }
-#crystal{
-	height:220px;
-		width:320px;
+#image2{
+	margin-top: 22%;
+	width: 320px;
+	height:250px;
 }
-@media screen and (max-width:1040px) {
-#serviceimage{
-	margin-top: 35%;
-	margin-bottom: 0%;
+#image3{
+	margin-top: 22%;
+	width: 320px;
+	height:250px;
 }
-}
-@media screen and (max-width:980px) {
-	#serviceimage{
-		margin-top: 15%;
+@media screen and (max-width:1280px) {
+	#image1{
+		margin-top:12em;
 		margin-bottom: 0%;
 	}
 	}
+@media screen and (max-width:1040px) {
+#image1{
+	margin-top:55%;
+	margin-bottom: 0%;
+}
+}
+
+@media screen and (max-width:1024px) {
+	#image1{
+		margin-top: 90%;
+		margin-bottom: 0%;
+	}
+	}
+@media screen and (max-width:980px) {
+	#image1{
+		margin-top: 25%;
+		margin-bottom: 0%;
+	}
+	}
+	@media screen and (max-width:979px) {
+		#image1{
+			margin-top: 30%;
+			margin-bottom: 0%;
+		}
+		}
+	/* @media screen and (max-width:850px) {
+		#image1{
+			margin-top: 30%;
+			margin-bottom: 0%;
+		}
+		} */
+	@media screen and (max-width:830px) {
+		#image1{
+			margin-top: 32%;
+			margin-bottom: 0%;
+		}
+		}
+	@media screen and (max-width:800px) {
+		#image1{
+			margin-top: 35%;
+			margin-bottom: 0%;
+		}
+		}
+		@media screen and (max-width:750px) {
+			#image1{
+				margin-top: 35%;
+				margin-bottom: 0%;
+			}
+			}	
+
+			@media screen and (max-width:735px) {
+				#image1{
+					margin-top: 30%;
+					margin-bottom: 0%;
+				}
+				}	
+		@media screen and (max-width:665px) {
+				#image1{
+					margin-top: 34%;
+					margin-bottom: 0%;
+				}
+				}	
+				@media screen and (max-width:600px) {
+					#image1{
+						margin-top: 12em;
+						margin-bottom: 0%;
+					}
+					}
+	/* image 2 */
+	@media screen and (max-width:1280px) {
+		#image2{
+			margin-top:12em;
+			margin-bottom: 0%;
+		}
+		}
+	@media screen and (max-width:1040px) {
+			#image2{
+			margin-top: 55%;
+			margin-bottom: 0%;
+		}
+	}
+@media screen and (max-width:1024px) {
+		#image2{
+		margin-top: 90%;
+		margin-bottom: 0%;
+		}
+				}
+@media screen and (max-width:980px) {
+	#image2{
+		margin-top: 1%;
+		margin-bottom: 0%;
+	}
+	}
+/* image 3 */
+@media screen and (max-width:1280px) {
+	#image3{
+		margin-top:12em;
+		margin-bottom: 0%;
+	}
+	}
+@media screen and (max-width:1024px) {
+	#image3{
+		margin-top: 90%;
+	margin-bottom: 0%;
+					}
+							}
+@media screen and (max-width:980px) {
+	#image3{
+		margin-top: 1%;
+		margin-bottom: 0%;
+	}
+	}
+			
 	#servicetext{
 		font-size: 1em;
 		color: black;
